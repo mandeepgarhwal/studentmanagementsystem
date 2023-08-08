@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "mandy",
+      "class": "10th"
+    },
+    {
+      "id": 2,
+      "name": "sandeep",
+      "class": "12th"
+    },
+    {
+      "id": 3,
+      "name": "richa",
+      "class": "8th"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
